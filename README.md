@@ -2,6 +2,10 @@
 
 Local semantic search with [EmbeddingGemma 2](https://huggingface.co/ggml-org/embeddinggemma-2-GGUF), running on CPU or Vulkan GPU.
 
+This repository accompanies my YouTube video on EmbeddingGemma 2.
+
+[Read the guide (Italian)](docs/embeddinggemma-2-guide-it.pdf) to learn how embeddings and EmbeddingGemma 2 work.
+
 - **GemmaDesk:** search documents, explore semantic maps and follow topics over time.
 - **GemmaVideo:** search audio and frames with text, then play the matching moments.
 

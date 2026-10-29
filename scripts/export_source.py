@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Export only application sources, examples, screenshots and benchmark results."""
+"""Export application sources, examples, documentation and benchmark results."""
 import argparse
 from pathlib import Path
 import tarfile
@@ -16,7 +16,8 @@ PATTERNS = (
     'video_gemma/native/*.py', 'video_gemma/native/*.c',
     'video_gemma/native/*.cpp', 'video_gemma/native/*.h', 'video_gemma/tests/test_*.py',
     'native/include/*', 'examples/*.py', 'examples/documents/*',
-    'docs/screenshots/*.png', 'bench/run.py', 'bench/results/*.json',
+    'docs/screenshots/*.png', 'docs/embeddinggemma-2-guide-it.html',
+    'docs/embeddinggemma-2-guide-it.pdf', 'bench/run.py', 'bench/results/*.json',
 )
 
 
