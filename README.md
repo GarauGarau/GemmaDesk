@@ -7,6 +7,8 @@ Local semantic search with [EmbeddingGemma 2](https://huggingface.co/ggml-org/em
 
 ![Semantic map of Italian parliamentary transcripts](docs/screenshots/parliament-overview.png)
 
+*Italian Chamber of Deputies transcripts (2016–2026). Topics discovered yearly using EmbeddingGemma 2, UMAP and HDBSCAN, then aligned across years.*
+
 ## Run
 
 Linux x86_64 · Debian 13 · Python 3.11+
@@ -38,8 +40,6 @@ python examples/make_video.py
 ```
 
 Replace `examples/documents` with your own folder of TXT, Markdown, PDF, DOCX or images. Add `--backend vulkan` for GPU indexing. Optional `filename.txt.json` metadata: `{"title":"My text","date":"2024-06-12"}`.
-
-<img src="docs/screenshots/topic-timeline.png" alt="Topic timeline" width="49%"> <img src="docs/screenshots/video-search.png" alt="GemmaVideo search and playback" width="49%">
 
 ## Benchmarks
 
