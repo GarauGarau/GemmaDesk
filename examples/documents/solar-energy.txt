@@ -1,0 +1,7 @@
+Solar energy for a community library
+
+The library installed solar panels on its south-facing roof. The panels convert sunlight into electricity for lighting, computers and ventilation. A battery stores surplus production during the afternoon and supplies the building after sunset.
+
+Before installation, the team measured electricity use every hour for a month. This helped them choose a battery that matched evening demand. They also improved insulation and replaced old lamps with efficient LEDs. Reducing consumption made the renewable supply more useful.
+
+The monitoring display compares power generation with consumption. Cloud cover lowers production, while clean panels and unobstructed sunlight improve it. Staff inspect the installation regularly and publish monthly energy totals.

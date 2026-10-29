@@ -1,0 +1,3 @@
+llama.cpp public headers, b11658 (3e4dfa8f3).
+Source: https://github.com/ggml-org/llama.cpp/tree/b11658
+License: MIT (LICENSE in this directory).

@@ -1,0 +1,15 @@
+GemmaDesk and GemmaVideo: AGPL-3.0-or-later (LICENSE).
+
+The PDF extraction core in archivio_gemma/native/src comes from Paperdesk.
+Its original license terms are retained in archivio_gemma/native/src/LICENSES.md.
+MuPDF is provided by the operating system package manager.
+
+llama.cpp headers: MIT, release b11658 (3e4dfa8f3).
+Source: https://github.com/ggml-org/llama.cpp/tree/b11658
+License: native/include/LICENSE.
+
+C64 Keyboard font: CC0-1.0.
+License: archivio_gemma/assets/C64-Keyboard-LICENSE.txt.
+
+Model and runtime downloads are pinned in scripts/bootstrap.py.
+Python dependencies are listed in requirements.txt.
